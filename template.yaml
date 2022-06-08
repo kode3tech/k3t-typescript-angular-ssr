@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-typescript-angular-ssr
   title: TypeScript Angular SSR
-  description: 
+  description: Criar uma single page application usando Angular e server side render
   tags:
     - typescript
     - frontend
     - spa
     - pwa
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: website
   parameters:
     - title: Provide some simple information
